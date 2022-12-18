@@ -1,0 +1,6 @@
+public static void main( String[] args ) {
+        int i = 15;
+        if (i<20)
+        System.out.println ( "15 is less than 20" );
+    }
+}
